@@ -1,4 +1,23 @@
 services:
+  server:
+    container_name: "server"
+    build: "./server"
+    restart: "always"
+    env_file: mongodb/mongodb.env
+    volumes:
+      - ./config.json:/server/config.json
+      - ./feeds.json:/server/feeds.json
+      - ./mongodb/mongodb.env:/server/mongodb/mongodb.env
+      - server_zip:/server/zip
+      - server_gtfs:/server/gtfs
+      - server_geojson:/server/geojson
+      - martin_tiles:/server/tiles
+      - /var/run/docker.sock:/var/run/docker.sock # Para poder acceder a docker desde dentro del contenedor
+    networks:
+      - red_interna
+    depends_on:
+      - mongodb
+      - martin
   nginx:
     image: "nginx:1.25.2-alpine"
     container_name: "nginx"
@@ -8,18 +27,13 @@ services:
       - 443:443
       - 27017:27017 # Para poder acceder a mongodb mientras se desarrolla
     volumes:
-      # Sin SSL
-      # - ./nginx/nginx.conf:/etc/nginx/nginx-.conf
-      
-      # Con SSL
-      - ./nginx/nginx.conf:/etc/nginx/nginx-ssl.conf
-      - ./ssl:/etc/ssl:ro
+      - ./nginx/nginx-ip.conf:/etc/nginx/nginx.conf
     depends_on:
       - martin
       - api
       - web-app
     networks:
-      - network
+      - red_interna
   martin:
     container_name: "martin"
     command:
@@ -29,9 +43,9 @@ services:
     ports:
     - "3000"
     volumes:
-    - "./tiles:/tiles"
+    - "martin_tiles:/tiles"
     networks:
-      - network
+      - red_interna
   mongodb:
     container_name: "mongodb"
     image: "mongodb/mongodb-community-server:latest"
@@ -43,7 +57,7 @@ services:
       - mongodatabase:/data/db
       - ./mongodb/init-mongo.sh:/docker-entrypoint-initdb.d/init-mongo.sh:ro
     networks:
-      - network
+      - red_interna
   api:
     container_name: "api"
     build: "./api"
@@ -52,7 +66,9 @@ services:
     ports:
       - "8081"
     networks:
-      - network
+      - red_interna
+    depends_on:
+      - mongodb
   web-app:
     container_name: "webapp"
     build: "./web"
@@ -62,11 +78,19 @@ services:
     volumes:
       - ./web/nginx.conf:/etc/nginx/nginx.conf
     networks:
-      - network
+      - red_interna
 volumes:
   mongodatabase:
     name: mongodatabase
+  martin_tiles:
+    name: martin_tiles
+  server_zip:
+    name: server_zip
+  server_gtfs:
+    name: server_gtfs
+  server_geojson:
+    name: server_geojson
 networks:
-  network:
+  red_interna:
     driver: bridge
 version: '3.7'
