@@ -24,8 +24,7 @@ services:
     restart: "always"
     ports:
       - 80:80
-      - 443:443
-      - 27017:27017 # Para poder acceder a mongodb mientras se desarrolla
+      - 81:81
     volumes:
       - ./nginx/nginx-ip.conf:/etc/nginx/nginx.conf
     depends_on:
