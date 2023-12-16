@@ -3,11 +3,10 @@ services:
     container_name: "server"
     build: "./server"
     restart: "always"
-    env_file: mongodb/mongodb.env
+    env_file: mongodb/server.env
     volumes:
       - ./config.json:/server/config.json
       - ./feeds.json:/server/feeds.json
-      - ./mongodb/mongodb.env:/server/mongodb/mongodb.env
       - server_zip:/server/zip
       - server_gtfs:/server/gtfs
       - server_geojson:/server/geojson
@@ -51,7 +50,10 @@ services:
     expose:
       - "27017"
     restart: "always"
-    env_file: mongodb/mongodb.env
+    env_file: 
+      - mongodb/root.env
+      - mongodb/server.env
+      - mongodb/api.env
     volumes:
       - mongodatabase:/data/db
       - ./mongodb/init-mongo.sh:/docker-entrypoint-initdb.d/init-mongo.sh:ro
@@ -61,7 +63,7 @@ services:
     container_name: "api"
     build: "./api"
     restart: "always"
-    env_file: mongodb/mongodb.env
+    env_file: mongodb/api.env
     expose:
       - "80"
     networks:
