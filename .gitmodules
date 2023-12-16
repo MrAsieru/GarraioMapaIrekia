@@ -1,0 +1,11 @@
+# Para actualizar los submodulos:
+# git submodule update --remote --recursive
+[submodule "server"]
+	path = server
+	url = https://github.com/MrAsieru/GarraioMapaIrekia-server.git
+[submodule "api"]
+	path = api
+	url = https://github.com/MrAsieru/GarraioMapaIrekia-api.git
+[submodule "web"]
+	path = web
+	url = https://github.com/MrAsieru/GarraioMapaIrekia-web.git
