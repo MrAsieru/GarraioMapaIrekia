@@ -35,14 +35,14 @@ services:
       - red_interna
   martin:
     container_name: "martin"
-    command:
-    - "/tiles"
+    command: "-c /etc/martin/config.yaml"
     image: "ghcr.io/maplibre/martin:main"
     restart: "always"
     expose:
       - "80"
     volumes:
-    - "martin_tiles:/tiles"
+      - ./martin/config.yaml:/etc/martin/config.yaml
+      - "martin_tiles:/tiles"
     networks:
       - red_interna
   mongodb:
