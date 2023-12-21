@@ -1,5 +1,6 @@
+version: '3.7'
+name: "garraiomapairekia"
 services:
-  name: "GarraioMapaIrekia"
   server:
     container_name: "server"
     build: "./server"
@@ -115,4 +116,3 @@ volumes:
 networks:
   red_interna:
     driver: bridge
-version: '3.7'
