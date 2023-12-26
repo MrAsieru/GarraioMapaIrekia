@@ -97,7 +97,7 @@ services:
       - otp_graphs:/var/garraiomapairekia/graphs:rw
     networks:
       - red_interna
-    entrypoint: /var/garraiomapairekia/init-otp.sh
+    entrypoint: bash /var/garraiomapairekia/init-otp.sh
 volumes:
   mongodatabase:
     name: mongodatabase
