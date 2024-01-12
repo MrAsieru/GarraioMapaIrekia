@@ -6,14 +6,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/Alavabus/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1161,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -24,8 +24,8 @@
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 932,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ],
         "calcularPosiciones": false
@@ -37,8 +37,8 @@
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1363,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -65,20 +65,20 @@
             {
                 "tipo": "ETAG",
                 "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/bilbobus.zip",
-				"atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
+                "atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
                 "urlAtribucion": "https://data.ctb.eus/"
             },
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/Bilbobus/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1259,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ],
         "tiempoReal": [
@@ -121,8 +121,8 @@
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 929,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             },
             {
                 "tipo": "ETAG",
@@ -133,8 +133,8 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/Renfe_Cercanias/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             }
         ],
         "calcularPosiciones": false
@@ -146,14 +146,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/dbus/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 995,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -164,8 +164,8 @@
             {
                 "tipo": "ETAG",
                 "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/erandiobusa.zip",
-				"atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://data.ctb.eus/"
+                "atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://data.ctb.eus/"
             }
         ],
         "tiempoReal": [
@@ -180,8 +180,8 @@
             {
                 "tipo": "ETAG",
                 "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/etxebarribus.zip",
-				"atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://data.ctb.eus/"
+                "atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://data.ctb.eus/"
             }
         ],
         "tiempoReal":[
@@ -196,14 +196,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/Euskotren/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1062,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -214,20 +214,20 @@
             {
                 "tipo": "ETAG",
                 "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/funicularartxanda.zip",
-				"atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://data.ctb.eus/"
+                "atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://data.ctb.eus/"
             },
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/FunicularArtxanda/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1063,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -238,13 +238,41 @@
             {
                 "tipo": "ETAG",
                 "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/kbus.zip",
-				"atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://data.ctb.eus/"
+                "atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://data.ctb.eus/"
             }
         ],
         "tiempoReal": [
             "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/kbus-vehicle-positions.pb",
             "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/kbus-service-alerts.pb"
+        ]
+    },
+    {
+        "idFeed": "LaUnion",
+        "nombre" : "Autobuses La Unión",
+        "fuentes": [
+            {
+                "tipo": "ETAG",
+                "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/launion.zip",
+                "atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://data.ctb.eus/"
+            },
+            {
+                "tipo": "ETAG",
+                "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/La_Union/google_transit.zip",
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
+            },
+            {
+                "tipo": "NAP_MITMA",
+                "conjuntoDatoId": 1065,
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
+            }
+        ],
+        "tiempoReal": [
+            "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/la-union-vehicle-positions.pb",
+            "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/la-union-service-alerts.pb"
         ]
     },
     {
@@ -254,8 +282,8 @@
             {
                 "tipo": "ETAG",
                 "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/lejoanbusa.zip",
-				"atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://data.ctb.eus/"
+                "atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://data.ctb.eus/"
             }
         ],
         "tiempoReal": [
@@ -270,14 +298,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_arrasate/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 997,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -288,14 +316,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_auif_urb/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 998,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -306,14 +334,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_eibar/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 999,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -324,14 +352,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_ekialdebus/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1000,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -342,14 +370,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_euskotren_bus/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1001,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -360,14 +388,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_goierrialdea/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1028,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -378,14 +406,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_gipuzkoana/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1003,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -396,14 +424,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_hernani/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1029,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -414,14 +442,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_lasarte/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1030,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -432,14 +460,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_oiartzun/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1031,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -450,14 +478,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_pesa/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1032,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -468,14 +496,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_renteria/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1033,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -486,14 +514,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_tbh/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1393,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -504,14 +532,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_tolosaldea/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1034,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -522,14 +550,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_zarautz/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1036,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -540,14 +568,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/metrobilbao.zip",
-				"atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://data.ctb.eus/"
+                "atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://data.ctb.eus/"
             },
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/MetroBilbao/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "HTTP",
@@ -558,8 +586,8 @@
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1066,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ],
         "tiempoReal": [
@@ -581,14 +609,14 @@
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 897,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             },            
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/Renfe/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             }
         ],
         "calcularPosiciones": false
@@ -600,8 +628,8 @@
             {
                 "tipo": "ETAG",
                 "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/sopelbus.zip",
-				"atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://data.ctb.eus/"
+                "atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://data.ctb.eus/"
             }
         ],
         "tiempoReal": [
@@ -616,20 +644,20 @@
             {
                 "tipo": "ETAG",
                 "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/puentebizkaia.zip",
-				"atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://data.ctb.eus/"
+                "atribucion": "data.ctb.eus (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://data.ctb.eus/"
             },
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/Transbordador_Vizcaya/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1069,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     },
@@ -640,14 +668,14 @@
             {
                 "tipo": "ETAG",
                 "url": "https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/TUVISA/google_transit.zip",
-				"atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
-				"urlAtribucion": "https://www.geo.euskadi.eus/"
+                "atribucion": "Eusko Jaurlaritza / Gobierno Vasco. geoEuskadi (bajo licencia CC-BY 4.0)",
+                "urlAtribucion": "https://www.geo.euskadi.eus/"
             },
             {
                 "tipo": "NAP_MITMA",
                 "conjuntoDatoId": 1070,
-				"atribucion": "Powered by MITMA",
-				"urlAtribucion": "http://www.mitma.es/"
+                "atribucion": "Powered by MITMA",
+                "urlAtribucion": "http://www.mitma.es/"
             }
         ]
     }
