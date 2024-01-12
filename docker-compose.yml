@@ -21,7 +21,7 @@ services:
       - mongodb
       - martin
   nginx:
-    image: "nginx:1.25.2-alpine"
+    image: "nginx:1.25-alpine"
     container_name: "nginx"
     restart: "always"
     ports:
@@ -38,7 +38,7 @@ services:
   martin:
     container_name: "martin"
     command: "-c /etc/martin/config.yaml"
-    image: "ghcr.io/maplibre/martin:main"
+    image: "ghcr.io/maplibre/martin:v0.13.0"
     restart: "always"
     expose:
       - "80"
@@ -49,7 +49,7 @@ services:
       - red_interna
   mongodb:
     container_name: "mongodb"
-    image: "mongodb/mongodb-community-server:latest"
+    image: "mongodb/mongodb-community-server:7.0-ubuntu2204"
     expose:
       - "27017"
     restart: "always"
@@ -85,7 +85,7 @@ services:
       - red_interna
   opentripplanner:
     container_name: "opentripplanner"
-    image: docker.io/opentripplanner/opentripplanner:latest
+    image: docker.io/opentripplanner/opentripplanner:2.5.0_2024-01-11T16-12
     expose:
       - "8080"
     restart: "always"
